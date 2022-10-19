@@ -6,7 +6,7 @@
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Wydatki rządowe według COFOG (klasyfikacja funkcji rządu według UNSD, powtórzona w ESA2010) funkcji i rodzaju.",
+  "textNote": "Wydatki rządowe według COFOG (klasyfikacja funkcji rządowych według UNSD, powtórzona w ESA2010) funkcji i rodzaju.",
   "textDataAccess": "Uzyskaj dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji",
