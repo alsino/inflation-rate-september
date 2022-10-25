@@ -1,6 +1,6 @@
 export const config = {
   "mapTitle": "Annual inflation rates in Europe in September 2022", // The title of the map, if more than one word, separate by dash, e.g. "income-europe"
-  "vercelURL": "https://inlfation-rate-september.vercel.app/", // The url provided when deploying the map on Vercel
+  "vercelURL": "https://inflation-rate-september.vercel.app/", // The url provided when deploying the map on Vercel
   "datasetType": "values", // "values" or "binary"; Does the data set contain numerical values or binary (0/1) values for countries?
   "datasetUnit": "percent", // "fullNumbers" or "percent"; Is the data in percent (0.25 of GDP) or full numbers (25 people)?
   "colourScheme": "orange-red", // one of the following: "blue", "purple-blue", "green-blue", "orange-red"
