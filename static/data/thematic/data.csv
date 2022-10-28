@@ -1,6 +1,6 @@
 country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url
 Albania,AL,null,FALSE,,,,,,,,,
-Austria,AT,0.109,TRUE,To be added.,,,,,,https://i.ibb.co/TTv4W9C/Austria-sept2022.png,,
+Austria,AT,0.109,TRUE,To be added.,,,,,,https://github.com/EuranetPlus/inflation-rate-september/blob/main/static/img/austriatest.png?raw=true,,
 Belgium,BE,0.121,TRUE,To be added.,,,,,,,,
 Bulgaria,BG,0.156,TRUE,To be added.,,,,,,,,
 Bosnia and Herzegovina,BA,null,FALSE,,,,,,,,,
